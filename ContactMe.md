@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Contact Me</title>
+    </head>
+    <body>
+        <table align="center">
+            <tr>
+                <td>
+                    <h2>Socials 🌍</h2>
+                </td>
+            </tr> 
+        </table>
+        <table align="center" border="0" cellspacing="15">
+            <tr>
+                <td>
+                <img src="C:\Users\Clale\Desktop\CPrograms\Web Dev\HTML - Personal Site\Images\FB.png">
+                </td>
+                <td align="left">
+                    <em>Facebook</em>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                <img src="C:\Users\Clale\Desktop\CPrograms\Web Dev\HTML - Personal Site\Images\Instagram.png">
+                </td>
+                <td align="left">
+                    <em>Instagram</em>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                <img src="C:\Users\Clale\Desktop\CPrograms\Web Dev\HTML - Personal Site\Images\linkedin.png">
+                </td>
+                <td align="left">
+                    <em>LinkedIn</em>
+                </td>
+            </tr>    
+        </table>
+
+        <hr size="2", noshade>
+        <table align="center">
+            <tr align="center">
+                <td>
+                    <h2>Write to me directly 📩</h2>
+                </td>
+            </tr>
+        </table>
+        <table align="center">
+            <tr>
+                <td align="center">
+                    <form action="mailto:claleone92@gmail.com" method="POST" enctype="text/plain">
+                        <label>Enter your Name:</label>
+                        <input type="text" name="yourName" id=""> <br> <br>
+                        <label>Your Message:</label> <br>
+                        <textarea name="yourMessage" cols="80" rows="15"></textarea> <br>
+                        <input type="submit">
+                    </form>
+                </td>
+            </tr>
+            
+        </table>
+        
+        <br>
+        <hr size="2", noshade>
+
+        <br>
+        <table align="center">
+            <tr>
+                <td>🏠 <strong><a href="C:\Users\Clale\Desktop\CPrograms\Web Dev\HTML - Personal Site\Prove.html">Home Page</a></strong><td>
+            </tr>
+        </table>
+    </body>
+</html>
