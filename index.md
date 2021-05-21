@@ -2,7 +2,7 @@
     <html lang="en">
         <head>
         <meta charset="utf-8">
-        <title>♞ Λαμβδα ♞</title>
+        <title>About Me</title>
         </head>
         
         <body>
